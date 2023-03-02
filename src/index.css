@@ -69,6 +69,7 @@ code {
     monospace;
 }
 
+<<<<<<< HEAD
 /* Gradient Background */
 .background {
   position: fixed;
@@ -78,6 +79,9 @@ code {
   right: 0;
   z-index: -1;
 }
+=======
+
+>>>>>>> 5382413 (caca)
 
 @keyframes back-ground {
   from {
