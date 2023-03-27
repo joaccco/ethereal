@@ -53,7 +53,7 @@ return (
 
           <li>
             <a
-              href="/"
+              href="https://www.instagram.com/ethereal.devs/"
               rel="noreferrer"
               target="_blank"
               class="text-white transition hover:opacity-75"
@@ -99,7 +99,7 @@ return (
 
           <li>
             <a
-              href="/"
+              href="https://github.com/EtherealDevs"
               rel="noreferrer"
               target="_blank"
               class="text-white transition hover:opacity-75"
@@ -174,7 +174,7 @@ return (
           <nav aria-label="Footer Navigation - Company" class="mt-6">
             <ul class="space-y-4 text-sm">
               <li>
-                <a href="#" class="text-white transition hover:opacity-75">
+                <a href="" class="text-white transition hover:opacity-75">
                   Nosotros
                 </a>
               </li>
